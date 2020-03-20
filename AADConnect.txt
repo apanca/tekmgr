@@ -1,0 +1,6 @@
+mscrl.microsoft.com
+*.verisign.com	
+*.entrust.net
+*.windows.net
+secure.aadcdn.microsoftonline-p.com
+*.microsoftonline.com
